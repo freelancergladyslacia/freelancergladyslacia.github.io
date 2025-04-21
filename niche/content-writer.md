@@ -35,9 +35,9 @@ Experienced freelance academic and content writer delivering thoroughly research
 * Data Analysis & Visualization,   
 * Formatting & Citation Styles in APA and MLA  
 **Tools:**		
-* Blogger, Microsoft Word & Google Docs, Markdown, Notion, ChatGPT, Perplexity, Claude,  
-* Ahrefs, Semrush, Google Trends, Google Search Console, Google Analytics 4,  
-* WordPress, Basic HTML & CSS  
+* *Writing & Content Creation:* Blogger, Microsoft Word & Google Docs, Markdown, Notion, ChatGPT, Perplexity, Claude,  
+* *SEO & Analytics:* Ahrefs, Semrush, Google Trends, Google Search Console, Google Analytics 4,  
+* *Web & CMS:* WordPress, Basic HTML & CSS  
 **Languages:**
 * English — C1 Advanced *([see certification](https://cert.efset.org/KiE1vu))*  
 * Filipino — Native
