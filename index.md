@@ -2,7 +2,6 @@
 charset: "UTF-8"
 viewport: "width=device-width, initial-scale=1.0"
 title: "Gladys Lacia"
-google_site_verification: "JxOuvevvNEcfweV-3WZZCK4n8eWIqH3KeBDprtQ1q9Y"
 favicon: "https://freelancergladyslacia.github.io/niche/data-analyst-projects/data/linkedinpic042025.jpg"
 favicon_type: "image/x-icon"
 ---
