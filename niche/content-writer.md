@@ -14,8 +14,8 @@ Experienced freelance academic and content writer delivering thoroughly research
 
 **CERTIFICATIONS & TRAININGS**
 
-* [Professional Diploma in Copywriting and Business Writing](https://www.udemy.com/certificate/UC-b315d98e-5869-4b8b-abbc-0d293f307c61/) — Udemy (2025)  
-* [Professional Diploma in Business English and Communications](https://www.udemy.com/certificate/UC-a8cd83ad-9eb6-493b-ad17-f95a7d225ec8/) — Udemy (2025)
+* [Professional Diploma in Copywriting and Business Writing](https://www.udemy.com/certificate/UC-b315d98e-5869-4b8b-abbc-0d293f307c61/) — *Udemy* (2025)  
+* [Professional Diploma in Business English and Communications](https://www.udemy.com/certificate/UC-a8cd83ad-9eb6-493b-ad17-f95a7d225ec8/) — *Udemy* (2025)
 
 **EDUCATION**
 
