@@ -39,5 +39,5 @@ Experienced freelance academic and content writer delivering thoroughly research
 * Ahrefs, Semrush, Google Trends, Google Search Console, Google Analytics 4,  
 * WordPress, Basic HTML & CSS  
 **Languages:**
-* English — C1 Advanced *([see certification](https://cert.efset.org/KiE1vu))*,   
+* English — C1 Advanced *([see certification](https://cert.efset.org/KiE1vu))*  
 * Filipino — Native
