@@ -1,4 +1,4 @@
-**GLADYS LACIA**  
+# GLADYS LACIA  
 Content Writer  
 0981-359-0568 | [onbizgladyslacia@gmail.com](mailto:onbizgladyslacia@gmail.com) | [linkedin.com/in/freelancergladyslacia](https://www.linkedin.com/in/freelancergladyslacia/)  
 Calamba, Misamis Occidental, Philippines
