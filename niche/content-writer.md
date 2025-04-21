@@ -23,14 +23,12 @@ Experienced freelance academic and content writer delivering thoroughly research
 
 **SKILLS, EXPERTISE & TOOLS**   
 **Soft Skills:** 
-<pre>
-    Critical Thinking and Argumentation, Research,  
-    Academic and Professional Writing, Deadline Ownership & Independent Productivity,  
-    Multi-Tool Adaptability, SEO Content Strateg,y  
-    Creative Flexibility, Brand-Aligned Content Creation,  
-    Client Communication, Agile Team Collaboration,  
-    Reader-Friendly Content Design  
-</pre>
+* Critical Thinking and Argumentation, Research,  
+* Academic and Professional Writing, Deadline Ownership & Independent Productivity,  
+* Multi-Tool Adaptability, SEO Content Strateg,y  
+* Creative Flexibility, Brand-Aligned Content Creation,  
+* Client Communication, Agile Team Collaboration,  
+* Reader-Friendly Content Design  
 **Technical Skills:**	
 <pre>  
 Content Management,
