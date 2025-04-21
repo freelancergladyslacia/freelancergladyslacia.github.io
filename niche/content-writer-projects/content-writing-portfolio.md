@@ -1,4 +1,5 @@
 **CONTENT WRITING PORFOLIO**
+
 1) **[Credit Card Traps to Avoid: 7 Costly Financing Mistakes That Drain Your Wallet](https://freelancergladyslacia.github.io/niche/content-writer-projects/credit-card-traps-to-avoid-costly-financing-mistakes)** — Finance Blog (April 2025) <br> *Tools: Google Docs, Perplexity, Ahrefs, Google Search*  
 1. Researched and authored an SEO-optimized finance blog targeting the keyword **“Credit Card Traps”** *(Ahrefs KD: Medium)*, focusing on common mistakes that lead to credit card debt.  
 2. Wrote a data-driven introduction citing up-to-date fraud statistics to establish credibility and reader urgency.  
