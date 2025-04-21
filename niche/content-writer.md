@@ -8,9 +8,9 @@ Experienced freelance academic and content writer delivering thoroughly research
 
 **PROJECTS**
 
-* [Credit Card Traps to Avoid: 7 Costly Financing Mistakes That Drain Your Wallet](https://docs.google.com/document/d/1mVQDzyWskeUK4Y-4FBG_o4yN3exr9TUeblfd2eL9dvk/edit?tab=t.g9c7bz10v5g1) — Finance Blog <br> Tools: *Google Docs, Perplexity, Ahrefs, Google Search* (April 2025\)  
-* [Personal Finance Tips: 5 Everyday Expenses You Must Cut NOW to Save More Money](https://docs.google.com/document/d/1mVQDzyWskeUK4Y-4FBG_o4yN3exr9TUeblfd2eL9dvk/edit?tab=t.2a029hb6bfqw) — Finance Blog <br> Tools: *Google Docs, Perplexity, Ahrefs, Google Search* (April 2025\)  
-* [Saving vs Investing: Why Investing Is the Smarter Way to Build Long-Term Wealth?](https://docs.google.com/document/d/1mVQDzyWskeUK4Y-4FBG_o4yN3exr9TUeblfd2eL9dvk/edit?tab=t.s2w3i62iqmpj) — Finance Blog <br> Tools: *Google Docs, Perplexity, Ahrefs, Google Search* (April 2025\)
+* [Credit Card Traps to Avoid: 7 Costly Financing Mistakes That Drain Your Wallet](https://docs.google.com/document/d/1mVQDzyWskeUK4Y-4FBG_o4yN3exr9TUeblfd2eL9dvk/edit?tab=t.g9c7bz10v5g1) — Finance Blog (April 2025) <br> *Tools: Google Docs, Perplexity, Ahrefs, Google Search* 
+* [Personal Finance Tips: 5 Everyday Expenses You Must Cut NOW to Save More Money](https://docs.google.com/document/d/1mVQDzyWskeUK4Y-4FBG_o4yN3exr9TUeblfd2eL9dvk/edit?tab=t.2a029hb6bfqw) — Finance Blog (April 2025) <br> *Tools: Google Docs, Perplexity, Ahrefs, Google Search* 
+* [Saving vs Investing: Why Investing Is the Smarter Way to Build Long-Term Wealth?](https://docs.google.com/document/d/1mVQDzyWskeUK4Y-4FBG_o4yN3exr9TUeblfd2eL9dvk/edit?tab=t.s2w3i62iqmpj) — Finance Blog (April 2025) <br> *Tools: Google Docs, Perplexity, Ahrefs, Google Search*
 
 **CERTIFICATIONS & TRAININGS**
 
