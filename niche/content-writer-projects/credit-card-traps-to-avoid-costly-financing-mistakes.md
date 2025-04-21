@@ -92,7 +92,7 @@ These mistakes often work together—carrying a balance leads to interest, which
 
 ## How to Avoid These Credit Card Traps?
 
-### :white_check_mark: General Tips for Responsible Credit Use
+### a) General Tips for Responsible Credit Use
 
 #### Budget Like a Pro
 
