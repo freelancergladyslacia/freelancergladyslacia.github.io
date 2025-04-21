@@ -22,14 +22,14 @@ The true danger of credit card traps lies in their compounding effect. Let’s s
 
 High-interest debt also impacts mental health. A 2022 Bankrate study found that 42% of credit card users feel stressed about their balances, with many sacrificing essentials like groceries or medical care to make payments. Worse, missed payments can crater your credit score by up to 100 points, making loans and mortgages harder to secure.
 
-#### :point_right: The Domino Effect of Small Mistakes
+#### i) The Domino Effect of Small Mistakes
 
 * **Minimum Payments:** Paying just 2-3% of your balance keeps you in debt indefinitely while interest piles up.  
 * **Late Fees:** A single missed payment can trigger a $30-$40 fee and spike your APR to 29.99% through penalty rates.  
 * **Cash Advances:** These often come with 25%+ APR and no grace period, meaning interest starts the day you withdraw cash.  
 * **Rewards Overspending:** Chasing points or miles? Overspending to earn them negates their value, especially if you carry a balance and pay interest.
 
-#### :point_right: Real-Life Consequences
+#### ii) Real-Life Consequences
 
 Take Sarah, a 28-year-old who used her card for a $3,000 vacation. By paying only the minimum, her debt ballooned to $4,800 in three years due to compound interest. She’s now delaying her wedding savings to tackle the debt. Stories like hers are why avoiding these traps isn’t just about saving money—it’s about reclaiming financial freedom.
 
@@ -109,7 +109,7 @@ These mistakes often work together—carrying a balance leads to interest, which
 * **Set SMS alerts** for charges over $100 or when your balance hits 30% of your limit.  
 * **Weekly reviews:** Dedicate 10 minutes every Sunday to review transactions and adjust spending.
 
-### :white_check_mark: Choosing the Right Credit Card
+### b) Choosing the Right Credit Card
 
 #### *For Debt Consolidation:* Balance Transfer Cards
 
@@ -131,7 +131,7 @@ These mistakes often work together—carrying a balance leads to interest, which
 * **Secured cards:** Discover it Secured (2% cash back at gas stations/restaurants, $0 annual fee).  
 * **Credit-builder loans:** Pair with a secured card to diversify your credit mix.
 
-### :white_check_mark: Actionable Strategies to Stay Trap-Free
+### c) Actionable Strategies to Stay Trap-Free
 
 #### Automate Payments
 
@@ -151,7 +151,7 @@ Wait a day before buying non-essentials over $100. This reduces impulse spending
 * **Mint:** Tracks spending across all cards and alerts you to fees.  
 * **Undebt.it:** Creates a customized debt payoff plan based on interest rates.
 
-### :white_check_mark: Build a Safety Net
+### d) Build a Safety Net
 
 * **Emergency fund:** Save 3-6 months’ expenses in a high-yield account (e.g., Ally Bank at 4.25% APY) to avoid relying on credit during crises.  
 * **Annual card reviews:** Each January, reassess if your cards still match your spending habits (e.g., swap travel cards for cashback if you’re staying home).
