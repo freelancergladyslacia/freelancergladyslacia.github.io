@@ -19,9 +19,7 @@ Experienced freelance academic and content writer delivering thoroughly research
 
 **EDUCATION**
 
-* **Bachelor of Science in Mathematics**, *College of Science and Mathematics* (2014-2018)
-
-Mindanao State University — Iligan Institute of Technology
+* **Bachelor of Science in Mathematics**, *College of Science and Mathematics* (2014-2018) <br> Mindanao State University — Iligan Institute of Technology
 
 **SKILLS, EXPERTISE & TOOLS**  
 **Soft Skills:**	Critical Thinking and Argumentation, Research,  
@@ -30,6 +28,17 @@ Mindanao State University — Iligan Institute of Technology
 		Creative Flexibility, Brand-Aligned Content Creation,  
 		Client Communication, Agile Team Collaboration,  
 		Reader-Friendly Content Design  
+**SKILLS, EXPERTISE & TOOLS**  
+<br>
+<strong>Soft Skills:</strong>  
+<pre>
+    Critical Thinking and Argumentation, Research  
+    Academic and Professional Writing, Deadline Ownership & Independent Productivity  
+    Multi-Tool Adaptability, SEO Content Strategy  
+    Creative Flexibility, Brand-Aligned Content Creation  
+    Client Communication, Agile Team Collaboration  
+    Reader-Friendly Content Design  
+</pre>
 **Technical Skills:**	  
 Content Management, SEO & Analytics, SEO Structuring, Data Analysis & Visualization,   
 Formatting & Citation Styles in APA and MLA  
