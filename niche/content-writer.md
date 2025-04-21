@@ -29,21 +29,15 @@ Experienced freelance academic and content writer delivering thoroughly research
 * Creative Flexibility, Brand-Aligned Content Creation,  
 * Client Communication, Agile Team Collaboration,  
 * Reader-Friendly Content Design  
-**Technical Skills:**	
-<pre>  
-Content Management,
-SEO & Analytics, SEO Structuring, 
-Data Analysis & Visualization,   
-Formatting & Citation Styles in APA and MLA  
-</pre>
+**Technical Skills:**	  
+* Content Management,
+* SEO & Analytics, SEO Structuring, 
+* Data Analysis & Visualization,   
+* Formatting & Citation Styles in APA and MLA  
 **Tools:**		
-<pre>
-Blogger, Microsoft Word & Google Docs, Markdown, Notion, ChatGPT, Perplexity, Claude,  
-Ahrefs, Semrush, Google Trends, Google Search Console, Google Analytics 4,  
-WordPress, Basic HTML & CSS  
-<\pre>
+* Blogger, Microsoft Word & Google Docs, Markdown, Notion, ChatGPT, Perplexity, Claude,  
+* Ahrefs, Semrush, Google Trends, Google Search Console, Google Analytics 4,  
+* WordPress, Basic HTML & CSS  
 **Languages:**
-<pre>
-English — C1 Advanced *([see certification](https://cert.efset.org/KiE1vu))*,   
-Filipino — Native
-<\pre>
+* English — C1 Advanced *([see certification](https://cert.efset.org/KiE1vu))*,   
+* Filipino — Native
