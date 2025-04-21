@@ -24,18 +24,28 @@ Experienced freelance academic and content writer delivering thoroughly research
 **SKILLS, EXPERTISE & TOOLS**   
 **Soft Skills:** 
 <pre>
-    Critical Thinking and Argumentation, Research  
-    Academic and Professional Writing, Deadline Ownership & Independent Productivity  
-    Multi-Tool Adaptability, SEO Content Strategy  
-    Creative Flexibility, Brand-Aligned Content Creation  
-    Client Communication, Agile Team Collaboration  
+    Critical Thinking and Argumentation, Research,  
+    Academic and Professional Writing, Deadline Ownership & Independent Productivity,  
+    Multi-Tool Adaptability, SEO Content Strateg,y  
+    Creative Flexibility, Brand-Aligned Content Creation,  
+    Client Communication, Agile Team Collaboration,  
     Reader-Friendly Content Design  
 </pre>
-**Technical Skills:**	  
-Content Management, SEO & Analytics, SEO Structuring, Data Analysis & Visualization,   
+**Technical Skills:**	
+<pre>  
+Content Management,
+SEO & Analytics, SEO Structuring, 
+Data Analysis & Visualization,   
 Formatting & Citation Styles in APA and MLA  
-**Tools:**		Blogger, Microsoft Word & Google Docs, Markdown, Notion, ChatGPT, Perplexity, Claude,  
-		Ahrefs, Semrush, Google Trends, Google Search Console, Google Analytics 4,  
-		WordPress, Basic HTML & CSS  
-**Languages:**	English — C1 Advanced *([see certification](https://cert.efset.org/KiE1vu))*,   
+</pre>
+**Tools:**		
+<pre>
+Blogger, Microsoft Word & Google Docs, Markdown, Notion, ChatGPT, Perplexity, Claude,  
+Ahrefs, Semrush, Google Trends, Google Search Console, Google Analytics 4,  
+WordPress, Basic HTML & CSS  
+<\pre>
+**Languages:**
+<pre>
+English — C1 Advanced *([see certification](https://cert.efset.org/KiE1vu))*,   
 Filipino — Native
+<\pre>
