@@ -1,7 +1,7 @@
 ---
 charset: "UTF-8"
 viewport: "width=device-width, initial-scale=1.0"
-title: "Gladys Lacia"
+title: "Gladys Lacia - Home Page"
 ---
 
 # **GLADYS LACIA**  
