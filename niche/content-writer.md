@@ -1,7 +1,7 @@
 ---
 charset: "UTF-8"
 viewport: "width=device-width, initial-scale=1.0"
-title: "Gladys Lacia - Content Writer"
+title: "Content Writer Resume"
 ---
 
 # **GLADYS LACIA**  
@@ -32,15 +32,18 @@ Experienced freelance academic and content writer delivering thoroughly research
 * Creative Flexibility, Brand-Aligned Content Creation,  
 * Client Communication, Agile Team Collaboration,  
 * Reader-Friendly Content Design  
+
 ### **b: Technical Skills:**	  
 * Content Management,
 * SEO & Analytics, SEO Structuring, 
 * Data Analysis & Visualization,   
 * Formatting & Citation Styles in APA and MLA  
+
 ### **c: Tools:**		
 * *Writing & Content Creation:* Blogger, Microsoft Word & Google Docs, Markdown, Notion, ChatGPT, Perplexity, Claude,  
 * *SEO & Analytics:* Ahrefs, Semrush, Google Trends, Google Search Console, Google Analytics 4,  
 * *Web & CMS:* WordPress, Basic HTML & CSS  
+
 ### **d: Languages:**
 * English — C1 Advanced *([see certification](https://cert.efset.org/KiE1vu))*  
 * Filipino — Native
