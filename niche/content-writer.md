@@ -1,8 +1,8 @@
 ---
 charset: "UTF-8"
 viewport: "width=device-width, initial-scale=1.0"
-title: "Gladys Lacia - CW1"
-layout: no-header
+title: "Gladys Lacia - CW2"
+layout: style.css
 ---
 <link rel="stylesheet" href="https://freelancergladyslacia.github.io/style.css">
 
