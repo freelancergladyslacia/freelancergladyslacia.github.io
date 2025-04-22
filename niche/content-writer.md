@@ -2,7 +2,7 @@
 charset: "UTF-8"
 viewport: "width=device-width, initial-scale=1.0"
 title: "Gladys Lacia - Content Writer"
-# author: yourusername
+author: ""
 ---
 
 # **GLADYS LACIA**  
