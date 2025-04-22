@@ -1,8 +1,4 @@
-.byline, .author, .username {
+header h1 {
     display: none !important;
-  }
-  
-  header h1 {
-    display: none !important;
-  }
+}
   
