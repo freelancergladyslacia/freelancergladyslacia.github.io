@@ -1,8 +1,7 @@
 ---
 charset: "UTF-8"
 viewport: "width=device-width, initial-scale=1.0"
-title: "Gladys Lacia - CW3"
-layout: default
+title: "Gladys Lacia - Content Writer"
 ---
 
 # **GLADYS LACIA**  
