@@ -2,7 +2,6 @@
 charset: "UTF-8"
 viewport: "width=device-width, initial-scale=1.0"
 title: "Gladys Lacia"
-<link rel="icon" href="https://freelancergladyslacia.github.io/niche/data-analyst-projects/data/linkedinpic042025.jpg" type="image/x-icon">
 ---
 
 # **GLADYS LACIA**  
