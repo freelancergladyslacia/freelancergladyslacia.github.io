@@ -3,6 +3,7 @@ charset: "UTF-8"
 viewport: "width=device-width, initial-scale=1.0"
 title: "Gladys Lacia - Content Writer"
 ---
+<link rel="stylesheet" href="https://freelancergladyslacia.github.io/style.css">
 
 # **GLADYS LACIA**  
 Content Writer  
