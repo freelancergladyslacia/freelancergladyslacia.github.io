@@ -1,5 +1,11 @@
+---
+charset: "UTF-8"
+viewport: "width=device-width, initial-scale=1.0"
+title: "Gladys Lacia - Content Writer"
+---
+
 Content Writer  
-0981-359-0568 | [onbizgladyslacia@gmail.com](mailto:onbizgladyslacia@gmail.com) | [linkedin.com/in/freelancergladyslacia](https://www.linkedin.com/in/freelancergladyslacia/)  
+0981-359-0568 | <onbizgladyslacia@gmail.com> | [linkedin.com/in/freelancergladyslacia](https://www.linkedin.com/in/freelancergladyslacia/)  
 Calamba, Misamis Occidental, Philippines
 
 ## **PROFESSIONAL SUMMARY**  
@@ -37,9 +43,9 @@ Data Analysis & Visualization,
 Formatting & Citation Styles in APA and MLA  
 
 ## **Tools:**		
-*Writing & Content Creation:* Blogger, Microsoft Word & Google Docs, Markdown, Notion, ChatGPT, Perplexity, Claude,  
-*SEO & Analytics:* Ahrefs, Semrush, Google Trends, Google Search Console, Google Analytics 4,  
-*Web & CMS:* WordPress, Basic HTML & CSS  
+| *Writing & Content Creation:* | Blogger, Microsoft Word & Google Docs, Markdown, Notion, ChatGPT, Perplexity, Claude,  |
+| *SEO & Analytics:* | Ahrefs, Semrush, Google Trends, Google Search Console, Google Analytics 4,  |
+| *Web & CMS:* | WordPress, Basic HTML & CSS  |
 
 ## **Languages:**	
 English — C1 Advanced *([see certification](https://cert.efset.org/KiE1vu))*,   
