@@ -4,7 +4,6 @@ viewport: "width=device-width, initial-scale=1.0"
 title: "Gladys Lacia - Home Page"
 ---
 
-# **GLADYS LACIA**  
 *Freelancer*  
 **CONTENT WRITER | GENERAL VIRTUAL ASSISTANT | DATA ANALYST**  
 [onbizgladyslacia@gmail.com](mailto:onbizgladyslacia@gmail.com) | [linkedin.com/in/freelancergladyslacia](https://www.linkedin.com/in/freelancergladyslacia/) | [facebook.com/onbizgladyslacia](https://www.facebook.com/onbizgladyslacia)  
