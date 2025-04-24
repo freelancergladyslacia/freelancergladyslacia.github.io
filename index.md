@@ -13,3 +13,9 @@ Upwork | [OLJ](https://www.onlinejobs.ph/jobseekers/info/3977015)
 *As a Content Writer:* [freelancergladyslacia.github.io/niche/content-writer](https://freelancergladyslacia.github.io/niche/content-writer)  
 *As a General Virtual Assistant:*  
 *As a Data Analyst:* [freelancergladyslacia.github.io/niche/data-analyst](https://freelancergladyslacia.github.io/niche/data-analyst)
+
+The *Gamma function* satisfying $\Gamma(n) = (n-1)!\quad\forall n\in\mathbb N$ is via the Euler integral
+
+$$
+\Gamma(z) = \int_0^\infty t^{z-1}e^{-t}dt\,.
+$$
