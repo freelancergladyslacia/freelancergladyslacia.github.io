@@ -13,5 +13,3 @@ Upwork | [OLJ](https://www.onlinejobs.ph/jobseekers/info/3977015)
 *As a Content Writer:* [freelancergladyslacia.github.io/niche/content-writer](https://freelancergladyslacia.github.io/niche/content-writer)  
 *As a General Virtual Assistant:*  
 *As a Data Analyst:* [freelancergladyslacia.github.io/niche/data-analyst](https://freelancergladyslacia.github.io/niche/data-analyst)
-
-$\pi \approx 3.14159$
