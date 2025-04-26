@@ -25,7 +25,7 @@
 * Guards thoughts and mind against evil influences   
 * Helps focus on eternal life and heavenly rewards
 
-6\. **Sword of the Spirit (God’s Word)** (*Ephesians 6:17*) 
+6\. **Sword of the Spirit (God's Word)** (*Ephesians 6:17*) 
 * Represents offensive weapon against evil   
 * Uses scripture to counter evil thoughts and attacks   
 * Helps speak truth and defend faith
