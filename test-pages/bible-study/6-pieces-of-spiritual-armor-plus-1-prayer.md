@@ -30,7 +30,7 @@
 * Uses scripture to counter evil thoughts and attacks   
 * Helps speak truth and defend faith
 
-7\. **Prayer** (Ephesians 6:18) 
+7\. **Prayer** (*Ephesians 6:18*) 
 * Represents communication with God’s power   
 * Enables spirit to pray for self and others   
 * Helps apply all other armor pieces effectively
