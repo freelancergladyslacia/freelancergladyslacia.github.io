@@ -8990,22 +8990,22 @@ Streaming Music              2488                285           11.45
 <h4 id="Data-and-Model-Problem-Oversights-and-Future-Solutions">Data and Model Problem Oversights and Future Solutions<a class="anchor-link" href="#Data-and-Model-Problem-Oversights-and-Future-Solutions">¶</a></h4><ul>
 <li><em>Class Imbalance Problem:</em> Low accuracy and high misclassification for classes like Dissatisfaction, Other, and Price.</li>
 </ul>
+<blockquote>
+  <p><em>Future Solutions:</em> Use SMOTE or class weights to balance minority classes. Consider grouping low-frequency churn categories if they are semantically similar such as merge Other and Price, if justified.</p>
+  </blockquote>
 <ul>
 <li><em>Feature Problem:</em> Overlapping signals might confuse the classifier.</li>
 </ul>
 <blockquote>
 <p><em>Future Solutions:</em> New features such as <code>Monthly Charge x Tenure</code>, <code>Refund Ratio</code>, and usage intensity. Include customer interaction history, complaint logs, or NPS scores if available.</p>
 </blockquote>
-<blockquote>
-<p><em>Future Solutions:</em> Use SMOTE or class weights to balance minority classes. Consider grouping low-frequency churn categories if they are semantically similar such as merge Other and Price, if justified.</p>
-</blockquote>
 <ul>
 <li><em>Future Solutions for Model Problem:</em></li>
-</ul>
 <ol>
 <li>Use Tree-Based or Ensemble Models for Interpretability and Power: Try XGBoost or CatBoost for better handling of mixed feature types and imbalance.</li>
 <li>Multi-Class Strategy: Evaluate other classifiers like Gradient Boosted Trees (better at handling noise) and Multinomial Logistic Regression (instead of One-vs-Rest). Also, consider hierarchical classification such as first predict churn vs. not, then predict churn reason.</li>
 </ol>
+</ul>
 </div>
 </div>
 </div>
