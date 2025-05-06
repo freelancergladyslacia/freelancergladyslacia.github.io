@@ -1,0 +1,400 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Gladys Lacia &mdash; Professional General Virtual Assistant offering admin support, content creation, SEO, and task management for entrepreneurs and small businesses. Reliable, detail-oriented, and highly organised.">
+  <meta name="keywords" content="General Virtual Assistant, Gladys Lacia, Admin Support, Task Management, SEO Virtual Assistant, Content Creation, Remote Assistant, Virtual Admin, Online Assistant, Freelance VA">
+  <title>Gladys Lacia &mdash; General VA</title>
+  <link rel="icon" href="https://freelancergladyslacia.github.io/assets/favicon.jpg" type="image/jpeg">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css" crossorigin="anonymous" referrerpolicy="no-referrer" />
+  <style>
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+    body {
+      font-family: Arial, sans-serif;
+      background: #fff;
+      color: #333;
+      line-height: 1.6;
+    }
+    header {
+      background: #A46131;
+      color: #fff;
+    }
+    .cover-photo {
+      width: 100%;
+      height: 200px;
+      background-image: url('https://via.placeholder.com/1000x200/069494/ffffff?text=Cover+Photo');
+      background-size: cover;
+      background-position: center;
+    }
+    .profile-section {
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      max-width: 1000px;
+      margin: auto;
+      padding: 1rem 2rem;
+      margin-top: -60px;
+    }
+    .profile-picture {
+      width: 120px;
+      height: 120px;
+      border: 4px solid white;
+      border-radius: 50%;
+      background-image: url('https://freelancergladyslacia.github.io/assets/linkedinpic042025.jpg');
+      background-size: cover;
+      background-position: center;
+      flex-shrink: 0;
+    }
+    .profile-info {
+      margin-left: 1.5rem;
+      flex: 1;
+    }
+    .profile-info h1 {
+      font-size: 1.8rem;
+      text-transform: uppercase;
+    }
+    .contact-icons i {
+      margin-right: 5px;
+      color: #fff;
+    }
+    .contact-icons span {
+      margin-right: 15px;
+      cursor: pointer;
+    }
+    .contact-icons a {
+      color: #fff;
+    }
+    .contact-icons:hover {
+      text-decoration: underline;
+    }
+    .container {
+      max-width: 1000px;
+      margin: auto;
+      padding: 2rem;
+      background: #fff;
+    }
+    section {
+      margin-bottom: 2rem;
+    }
+    h2 {
+      border-bottom: 2px solid #A46131;
+      padding-bottom: 0.5rem;
+      margin-bottom: 1rem;
+      font-size: 1.5rem;
+      text-transform: uppercase;
+    }
+    h3::before {
+      content: '\f00c'; /* Font Awesome icon: fa-angle-right */
+      font-family: 'Font Awesome 6 Free';
+      font-weight: 900;
+      margin-right: 0.5rem;
+      color: #A46131;
+    }
+    ul {
+      list-style-type: disc;
+      margin-left: 2rem;
+    }
+    .job, .education-entry, .cert-entry, .project {
+      margin-bottom: 1rem;
+    }
+    .project a, .cert-entry a, .education-entry a {
+      color: #A46131;
+    }
+    .job-title, .project-title, .cert-title, .education-title {
+      font-weight: bold;
+    }
+    .project-title:hover, .cert-title:hover, .education-title:hover, .lang:hover {
+      text-decoration: underline;
+      cursor: pointer;
+    }
+    .company-year {
+      font-style: italic;
+      color: #666;
+    }
+    .skills-section ul {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.5rem;
+      padding-left: 0;
+      list-style-type: none;
+    }
+    .skills-section li {
+      background: #A46131;
+      color: #fff;
+      padding: 0.4rem 0.8rem;
+      border-radius: 20px;
+      font-size: 0.9rem;
+    }
+    .skills-section a {
+      color: #fff;
+    }
+
+    @media (max-width: 768px) {
+      .profile-section {
+        flex-direction: column;
+        align-items: flex-start;
+        padding: 1rem;
+      }
+      .profile-info {
+        margin-left: 0;
+        margin-top: 1rem;
+      }
+      .skills-section ul {
+        flex-direction: column;
+      }
+    }
+
+    @media (max-width: 480px) {
+      .container {
+        padding: 1rem;
+      }
+      .profile-section {
+        padding: 1rem;
+      }
+      .profile-info h1 {
+        font-size: 1.5rem;
+      }
+      h2 {
+        font-size: 1.3rem;
+      }
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <div class="cover-photo"></div>
+    <div class="profile-section">
+      <div class="profile-picture" role="img" aria-label="Profile Picture &mdash; Gladys Lacia"></div>
+      <div class="profile-info">
+        <h1>GLADYS LACIA</h1>
+        <p>GENERAL VIRTUAL ASSISTANT</p>
+        <p class="contact-icons">
+          <span><i class="fab fa-whatsapp"></i>0981-359-0568</span> <br>
+          <span><i class="far fa-envelope"></i>onbizgladyslacia@gmail.com</span> <br>
+          <span><i class="fab fa-linkedin"></i><a onclick="openLink('https://www.linkedin.com/in/freelancergladyslacia')">freelancergladyslacia</a> <i class="fa-solid fa-link"></i></span> <br>
+          <span><i class="fab fa-facebook"></i><a onclick="openLink('https://www.facebook.com/onbizgladyslacia')">onbizgladyslacia</a> <i class="fa-solid fa-link"></i></span> <br>
+          <span><i class="fab fa-upwork"></i><a onclick="openLink('https://www.upwork.com/freelancers/~01496f55ce7a5e12b1')">Upwork: 01496f55ce7a5e12b1</a> <i class="fa-solid fa-link"></i></span> <br>
+          <span><i class="fas fa-briefcase"></i><a onclick="openLink('https://www.onlinejobs.ph/jobseekers/info/3977015')">OLJ: 3977015 (OnlineJobs.ph)</a> <i class="fa-solid fa-link"></i></span>
+          <br> <span><i class="fa-solid fa-location-dot"></i>Calamba, Misamis Occidental, Philippines</span>
+        </p>        
+      </div>
+    </div>
+  </header>
+
+  <div class="container">
+    <section>
+      <h2>Professional Summary</h2>
+      <p>As a detail-oriented professional, I craft effective content strategies, streamline workflows, and apply impactful SEO practices to help businesses grow sustainably. With years of continuous upskilling in research, business correspondence, content development, and admin support, I balance technical precision and creativity in every task. I can manage 5-8 projects at once, coordinate daily operations, and optimize tasks for timely, accurate delivery. My SEO skill includes on-page optimisation, keyword research, and content structuring, complemented by blogging and social media management using tools like Blogger, WordPress, Notion, Zapier, and Google Search Console. I am trained in English communication, active listening, and project coordination, with working knowledge of video editing in CapCut and graphic design in Canva. I work well in fast-paced virtual environments and adapt quickly to new tools, consistently delivering clear, targeted outputs that support business growth.</p>
+    </section>
+
+    <section>
+      <!-- <h2>Work Experience & Projects</h2> -->
+      <!-- <div class="job">
+        <div class="job-title">Software Engineer</div>
+        <div class="company-year">ABC Corp, 2021–2024</div>
+        <ul>
+          <li>Developed scalable web applications using React and Node.js</li>
+          <li>Led a team of 4 in agile sprints to deliver core features</li>
+        </ul>
+        <p><strong>Project:</strong> Real-time messaging app for internal communication</p>
+      </div> -->
+
+      <!-- <h2>Projects</h2> -->
+      <!-- <div class="project">
+        <ul>
+          <li>
+            <a class="project-title" onclick="openLink('https://docs.google.com/document/d/1mVQDzyWskeUK4Y-4FBG_o4yN3exr9TUeblfd2eL9dvk/edit?tab=t.g9c7bz10v5g1')">
+              Credit Card Traps to Avoid: 7 Costly Financing Mistakes That Drain Your Wallet
+            </a>
+            <p>Finance Blog <br> <em>Google Docs, Perplexity, Ahrefs, Google Search</em> (April 2025)</p>
+          </li>
+        </ul>
+      </div> -->
+
+    </section>
+
+    <section>
+      <h2>Certifications & Trainings</h2>
+      
+      <div class="cert-entry">
+        <ul>
+          <li>
+            <a class="cert-title" onclick="openLink('https://www.udemy.com/certificate/UC-69203fe6-0cd2-4b02-95ed-b2b94ce6dc76/')">
+              Advanced Certificate in Customer Experience Management <i class="fa-solid fa-link"></i>
+            </a>
+            <p><em>Udemy</em> (2025)</p>
+          </li>
+        </ul>
+      </div>
+      
+      <div class="cert-entry">
+        <ul>
+          <li>
+            <a class="cert-title" onclick="openLink('https://www.udemy.com/certificate/UC-5825bf89-9251-4df8-b5e4-931c030d3a18/')">
+              Operations and Process Management Data Analysis & Analytics <i class="fa-solid fa-link"></i>
+            </a>
+            <p><em>Udemy</em> (2025)</p>
+          </li>
+        </ul>
+      </div>
+      
+      <div class="cert-entry">
+        <ul>
+          <li>
+            <a class="cert-title" onclick="openLink('https://www.udemy.com/certificate/UC-a8cd83ad-9eb6-493b-ad17-f95a7d225ec8/')">
+              Professional Diploma in Business English and Communications <i class="fa-solid fa-link"></i>
+            </a>
+            <p><em>Udemy</em> (2025)</p>
+          </li>
+        </ul>
+      </div>            
+
+    </section>
+
+    <section>
+      <h2>Education</h2>
+      <div class="education-entry">
+        <ul>
+          <li>
+            <a class="education-title" onclick="openLink('https://example.com/path-to-your-diploma.pdf')">
+              Bachelor of Science in Mathematics <i class="fa-solid fa-link"></i>
+            </a>
+            <p><em>College of Science and Mathematics,</em> Mindanao State University &mdash; Iligan Institute of Technology (2014–2018)</p>
+          </li>
+        </ul>
+      </div>
+
+    </section>
+
+    <section class="skills-section">
+      <h2>Skills, Expertise & Tools</h2>
+
+      <h3>Soft Skills</h3>
+      <p><em>Communication Skills</em></p>
+        <ul>
+          <li>Professional English Communication (C1 Advanced)</li>
+          <li>Conversational Fluency</li>
+          <li>Active and Reflective Listening</li>
+          <li>Client Communication and Coordination</li>
+        </ul>
+
+        <p><em>Time and Task Management</em></p>
+          <ul>
+            <li>Task Prioritisation</li>
+            <li>Email and Calendar Management</li>
+            <li>Independent Productivity</li>
+            <li>Project Ownership</li>
+          </ul>
+
+        <p><em>Research and Problem Solving</em></p>
+          <ul>
+            <li>Research and Information Management</li>
+            <li>Problem-Solving</li>
+            <li>Critical Thinking</li>
+          </ul>
+
+        <p><em>Workplace Ethics and Collaboration</em></p>
+          <ul>
+            <li>Confidentiality</li>
+            <li>Digital Collaboration</li>
+          </ul>
+
+      <h3>Technical Skills</h3>
+      <p><em>Administrative & Virtual Assistance</em></p>
+        <ul>
+          <li>Virtual Assistance and Task Management</li>
+          <li>Calendar Scheduling and Inbox Management</li>
+          <li>Data Organization and Reporting</li>
+          <li>Document Formatting and File Management</li>
+        </ul>
+
+      <p><em>Content Creation & Management</em></p>
+        <ul>
+          <li>Content Writing</li>
+          <li>Blogging and SEO Structuring</li>
+          <li>Short-form Video Editing</li>
+          <li>Basic Graphic Design</li>
+        </ul>
+
+      <p><em>Research & Data Handling</em></p>
+        <ul>
+          <li>Online Research and Data Entry</li>
+        </ul>
+
+      <p><em>Automation & Tools</em></p>
+        <ul>
+          <li>CRM and Workflow Automation</li>
+        </ul>
+
+      <h3>Tools</h3>
+      <p><em>Content & Writing</em></p>
+        <ul>
+          <li>Blogger</li>
+          <li>WordPress</li>
+          <li>ChatGPT</li>
+          <li>Perplexity</li>
+        </ul>
+
+      <p><em>SEO & Marketing</em></p>
+        <ul>
+          <li>Ahrefs</li>
+          <li>Semrush</li>
+          <li>Google Trends</li>
+          <li>Google Search Console</li>
+        </ul>
+
+      <p><em>Design & Video</em></p>
+        <ul>
+          <li>Canva</li>
+          <li>DaVinci Resolve</li>
+          <li>CapCut</li>
+        </ul>
+
+      <p><em>Communication & Tutoring</em></p>
+        <ul>
+          <li>Google Meet</li>
+          <li>Zoom</li>
+          <li>MS Teams</li>
+          <li>Slack</li>
+        </ul>
+
+      <p><em>Task & Project Management</em></p>
+        <ul>
+          <li>Google Workspace</li>
+          <li>Microsoft Office</li>
+          <li>Zapier</li>
+          <li>Notion</li>
+        </ul>
+
+      <p><em>Data & Reporting</em></p>
+        <ul>
+          <li>Excel</li>
+          <li>Google Sheets</li>
+          <li>Power BI</li>
+        </ul>
+
+      <h3>Languages</h3>
+      <ul>
+        <li><a class="lang" onclick="openLink('https://cert.efset.org/KiE1vu')">English &mdash; C1 Advanced <em>(see certification <i class="fa-solid fa-link"></i>)</em></a></li>
+        <li>Filipino &mdash; Native</li>
+      </ul>
+    </section>
+
+    <!-- <section>
+      <h2>References</h2>
+      <p>Available upon request.</p>
+    </section> -->
+  </div>
+
+  <script>
+    function openLink(url) {
+      window.open(url, '_blank');
+    }
+  </script>
+</body>
+</html>

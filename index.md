@@ -11,5 +11,5 @@ Upwork | [OLJ](https://www.onlinejobs.ph/jobseekers/info/3977015)
 
 ## **RESUME**  
 *As a Content Writer:* [freelancergladyslacia.github.io/niche/content-writer](https://freelancergladyslacia.github.io/niche/content-writer)  
-*As a General Virtual Assistant:*  
+*As a General Virtual Assistant:* [freelancergladyslacia.github.io/niche/general-va](https://freelancergladyslacia.github.io/niche/general-va)  
 *As a Data Analyst:* [freelancergladyslacia.github.io/niche/data-analyst](https://freelancergladyslacia.github.io/niche/data-analyst)
