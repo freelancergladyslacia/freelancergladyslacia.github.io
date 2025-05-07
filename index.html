@@ -21,35 +21,22 @@
     }
 
     .cover-photo {
-        width: 100%;
-        height: 200px;
-        background-image: url('https://freelancergladyslacia.github.io/assets/favicon.jpg');
-        background-size: cover;
-        background-position: center;
+      width: 100%;
+      height: 200px;
+      background-image: url('https://freelancergladyslacia.github.io/assets/favicon.jpg');
+      background-size: cover;
+      background-position: center;
     }
 
     .profile-header {
       background: #1877f2;
       color: white;
-      text-align: center;
       padding: 2rem 1rem;
-    }
-    .profile-header h1 {
-      text-transform: uppercase;
-    }
-    .contact-icons i {
-      margin-right: 5px;
-      color: #fff;
-    }
-    .contact-icons span {
-      margin-right: 15px;
-      cursor: pointer;
-    }
-    .contact-icons a {
-      color: #fff;
-    }
-    .contact-icons:hover {
-      text-decoration: underline;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      flex-wrap: wrap;
+      text-align: left;
     }
 
     .profile-pic {
@@ -60,14 +47,38 @@
       background-image: url('https://freelancergladyslacia.github.io/assets/linkedinpic042025.jpg');
       background-size: cover;
       background-position: center;
-      margin: 0 auto 1rem auto;
+      margin-right: 1rem;
       flex-shrink: 0;
     }
 
-    .username {
+    .header-text {
+      margin-left: 1rem;
+      max-width: 500px;
+    }
+
+    .header-text h1 {
       font-size: 1.8rem;
-      margin: 0;
-      word-wrap: break-word;
+      margin: 0 0 0.5rem 0;
+      text-transform: uppercase;
+    }
+
+    .contact-icons i {
+      margin-right: 5px;
+      color: #fff;
+    }
+
+    .contact-icons span {
+      margin-right: 15px;
+      cursor: pointer;
+    }
+
+    .contact-icons a {
+      color: #fff;
+      text-decoration: none;
+    }
+
+    .contact-icons:hover {
+      text-decoration: underline;
     }
 
     .navbar {
@@ -142,16 +153,19 @@
 
     @media (max-width: 600px) {
       .profile-header {
-        padding: 1.5rem 1rem;
+        flex-direction: column;
+        text-align: center;
       }
 
       .profile-pic {
-        width: 100px;
-        height: 100px;
+        margin-right: 0;
+        margin-bottom: 1rem;
       }
 
-      .username {
-        font-size: 1.4rem;
+      .header-text {
+        max-width: 100%;
+        margin-left: 0;
+        margin-top: 1rem;
       }
 
       .navbar li {
@@ -166,6 +180,7 @@
       h2 {
         font-size: 1.25rem;
       }
+
       h3 {
         font-size: 1.125rem;
       }
@@ -177,10 +192,12 @@
   </style>
 </head>
 <body>
+
 <div class="cover-photo"></div>
 
-  <div class="profile-header">
-    <div class="profile-pic"></div>
+<div class="profile-header">
+  <div class="profile-pic"></div>
+  <div class="header-text">
     <h1 class="username">Gladys Lacia</h1>
     <p>Freelancer</p>
     <p class="contact-icons">
@@ -189,6 +206,7 @@
       <span><i class="fas fa-briefcase"></i><a onclick="openLink('https://www.onlinejobs.ph/jobseekers/info/3977015')">OLJ: 3977015 (OnlineJobs.ph)</a> <i class="fa-solid fa-link"></i></span>
     </p>
   </div>
+</div>
 
   <nav class="navbar">
     <ul>
